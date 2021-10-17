@@ -27,7 +27,7 @@
 
   JSX và virtual DOM
 
-  Functional Component
+  Functional Component (Hầu hết trong project công ty hiện tại đang dùng Functional Component, nhưng Cuccu vẫn còn nhiều Class Component. Class Component là cách viết component cũ và dài dòng hơn so với Functional Component)
 
   React Hooks
 
