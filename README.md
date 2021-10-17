@@ -36,8 +36,11 @@ Redux là state-management để quản lý state toàn app. Đặc thù của R
 - Redux-toolkit (KhoDuoc và Chimcat đang sử dụng)
 Là cải tiến của Redux giúp code gọn hơn rất nhiều
 - React Navigation
+
 Dùng để di chuyển giữa các màn hình
+
 - Redux-thunk
+
 Là middleware trong Redux, thường dùng để fetch API và lưu dữ liệu vào Redux.
 
 ## Tài liệu tham khảo
