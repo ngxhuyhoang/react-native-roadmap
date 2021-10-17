@@ -61,7 +61,7 @@
 React Native thực chất chỉ là sử dụng JavaScript làm cầu nối để gọi đến các thành phần Native của hệ điều hành Android/iOS. Nên dù là 1 component vẫn sẽ xảy ra các trường hợp code chạy đúng trên Android nhưng lại chưa đúng trên iOS hoặc ngược lại. Vậy nên khi code app cần test cả 2
 
 ## Tài liệu tham khảo
-
+- ReactJS: httphttps://reactjs.org/
 - React Native: https://www.reactnative.dev/
 - React Navigation: https://reactnavigation.org/
 - Redux-toolkit: https://redux-toolkit.js.org/
